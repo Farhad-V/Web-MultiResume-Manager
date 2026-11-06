@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "farhad-valizadegan/multiresume-manager",
+    "name": "Farhad-V/multiresume-manager",
     "type": "project",
     "description": "MultiResume Manager: create, share, and manage multiple professional resumes.",
     "keywords": ["laravel", "framework"],
