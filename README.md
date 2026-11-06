@@ -111,7 +111,7 @@ Versions verified for v1.0.0:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Farhad-Valizadegan/Web-MultiResume-Manager.git
+   git clone https://github.com/Farhad-V/Web-MultiResume-Manager.git
    cd Web-MultiResume-Manager/application
    ```
 
@@ -369,7 +369,7 @@ Known minor presentation items may be refined after v1.0.0:
 
 **Farhad Valizadegan**
 
-[GitHub profile](https://github.com/Farhad-Valizadegan)
+[GitHub profile](https://github.com/Farhad-V)
 
 ## License
 
